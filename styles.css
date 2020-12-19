@@ -3,6 +3,7 @@
 h1 {
     font-family: 'Merriweather', serif;
     font-size: 40px;
+    color: rgb(17, 124, 143);
 }
 
 .project {
@@ -35,8 +36,13 @@ main {
 
 h2 {
     color:#1E40AF;
-    padding:0.5rem;
+   
     font-size: 40px;
 }
 
 
+p {
+    font-size: larger;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    padding-bottom: 1rem;
+}
