@@ -3,3 +3,13 @@
 h1 {
     font-family: 'Merriweather', serif;
 }
+
+.project {
+    width: 500px;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+main {
+    text-align: center;
+}
